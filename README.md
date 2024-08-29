@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrii Antonenko!</h1>
 <h3 align="center">A passionate software engineer from Ukraine</h3>
 
-- 🔭 I’m currently working on **[Digital Original](https://digitaloriginal.app/)** and **[Curra](https://curra.io/)**
+- 🔭 I’m currently working on **[Beliefs](https://beliefs.social/)**
 
 - 💬 Ask me about **node.js, solidity, back-end/web3 development**
 
