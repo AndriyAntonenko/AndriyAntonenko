@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **node.js, solidity, back-end/web3 development**
 
-- 📫 How to reach me **andriyantonenko3.16@gmail.com**
+- 📫 How to reach me: **andriyantonenko3.16@gmail.com**
 
 - 📚 Trying to learn more about **blockchain** and **web3**
 
