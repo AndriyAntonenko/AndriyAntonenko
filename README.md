@@ -5,10 +5,6 @@
 
 - 📫 How to reach me: **andriyantonenko3.16@gmail.com**
 
-- 🤝 Open to new connections and collaboration
-
-- ⚡ Fun fact **I am martial arts lover 🤜**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://warpcast.com/ins0mn1a" target="_blank">
