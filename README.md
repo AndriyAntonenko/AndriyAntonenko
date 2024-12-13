@@ -51,5 +51,3 @@
     <img src="./icons/next-js.png" alt="next.js" width="40" height="40" />
   </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andriyantonenko&show_icons=true&locale=en" alt="andriyantonenko" /></p>
