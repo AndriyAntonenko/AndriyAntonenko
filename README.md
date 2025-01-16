@@ -1,53 +1,54 @@
-<h1 align="center">Hi 👋, I'm Andrii Antonenko!</h1>
-<h3 align="center">A passionate software engineer from Ukraine</h3>
+<h2> Hi, I'm Andrii! <img src="https://media.tenor.com/ZqMlZNvC2BYAAAAi/pixel-art-mrp.gif" width="50"></h2>
 
-- 🔭 I’m currently cooking in **[Beliefs](https://beliefs.social/)**
+<p>
+  <em>Software Enginner at <a href="https://beliefs.social/">Beliefs.social</a>
+  <img src="./icons/beliefs.png" width="20">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
+</p>
 
-- 📫 How to reach me: **andriyantonenko3.16@gmail.com**
+### Contact me <img src="https://media.tenor.com/VmWjBYdNb-4AAAAi/message-pixelated.gif" width="40" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+* <p align="left">
   <a href="https://warpcast.com/ins0mn1a" target="_blank">
-    <img align="center" src="./icons/warpcast.png" alt="https://warpcast.com/" height="40" width="40" />
+    On Warpcast
   </a>
-  <a href="https://www.linkedin.com/in/andrii-antonenko/" target="_blank">
-    <img align="center" src="./icons/linked-in-alt.svg" alt="https://www.linkedin.com/in/baptiste-fernandez-%e5%b0%8f%e7%99%bd-0a958630/" height="30" width="40" />
-  </a>
+  <img align="center" src="./icons/warpcast.png" alt="https://warpcast.com/" height="20" width="20" style="padding-bottom: 4px" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="./icons/solidity.png" alt="solidity" width="40" height="40" />
+* <p>
+  <a href="https://www.linkedin.com/in/andrii-antonenko/" target="_blank">
+    On Linkedin
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="./icons/next-js.png" alt="next.js" width="40" height="40" />
-  </a>
+  <img align="center" src="./icons/linkedin.png" alt="https://warpcast.com/" height="20" width="20" style="padding-bottom: 4px" />
 </p>
+
+* <p>
+  <a href="mailto:andriyantonenko3.16@gmail.com">Email (for formal conversations)</a>
+  📧
+</p>
+
+### <img src="https://media.tenor.com/BP0zrL-SpzQAAAAi/flying-cute.gif" width="50"> A little more about me...  
+
+
+```javascript
+class AndriiAntonenko implements ISoftwareEngineer {
+  constructor() {
+    this.name = "Andrii";
+    this.position = "Senior Full-Stack Blockchain Engineer";
+    this.homeland = "Ukraine";
+  }
+  get code() {
+    return ["Solidity", "Javascript", "Typescript", "Golang", "Huff", "Python"];
+  }
+  get interests() {
+    return ["DeFi", "Blockchain", "LLM", "High-Load"];
+  }
+  get tools() {
+    return ["Foundry", "Hardhat", "Node.js", "Bun", "React", "Next.js"]
+  }
+}
+```
+
+<img src="https://media.tenor.com/Km_wRqRHkpQAAAAj/fist-bump-mario.gif" width="60"> <em> <b>Feel free to reach out for collaborations, open-source projects, or hackathons. 🚀</b> </em>
+
+---
