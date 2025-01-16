@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/andrii-antonenko/" target="_blank">
     On Linkedin
   </a>
-  <img align="center" src="./icons/linkedin.png" alt="https://warpcast.com/" height="20" width="20" style="padding-bottom: 4px" />
+  <img align="center" src="./icons/linkedin.png" alt="https://warpcast.com/" height="20" width="20" style="padding-bottom: 8px" />
 </p>
 
 * <p>
