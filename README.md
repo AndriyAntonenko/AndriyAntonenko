@@ -44,7 +44,10 @@ class AndriiAntonenko implements ISoftwareEngineer {
     return ["DeFi", "Blockchain", "LLM", "High-Load"];
   }
   get tools() {
-    return ["Foundry", "Hardhat", "Node.js", "Bun", "React", "Next.js"]
+    return ["Foundry", "Hardhat", "Node.js", "Bun", "React", "Next.js"];
+  }
+  get todo() {
+    return ["Learn Rust"];
   }
 }
 ```
