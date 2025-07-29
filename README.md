@@ -1,8 +1,7 @@
 <h2> Hi, I'm Andrii! <img src="https://media.tenor.com/ZqMlZNvC2BYAAAAi/pixel-art-mrp.gif" width="50"></h2>
 
 <p>
-  <em>Software Enginner at <a href="https://beliefs.social/">Beliefs.social</a>
-  <img src="./icons/beliefs.png" width="20">
+  <em>Software Enginner at <a href="https://spilnota.xyz/">Spilnota.xyz</a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
 </p>
 
