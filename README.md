@@ -37,16 +37,13 @@ class AndriiAntonenko implements ISoftwareEngineer {
     this.homeland = "Ukraine";
   }
   get code() {
-    return ["Solidity", "Javascript", "Typescript", "Golang", "Huff", "Python"];
+    return ["Solidity", "Javascript", "Typescript", "Rust", "Golang", "Huff", "Python"];
   }
   get interests() {
     return ["DeFi", "Blockchain", "LLM", "High-Load"];
   }
   get tools() {
     return ["Foundry", "Hardhat", "Node.js", "Bun", "React", "Next.js"];
-  }
-  get todo() {
-    return ["Learn Rust"];
   }
 }
 ```
