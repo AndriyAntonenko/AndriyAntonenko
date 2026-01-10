@@ -33,11 +33,11 @@
 class AndriiAntonenko implements ISoftwareEngineer {
   constructor() {
     this.name = "Andrii";
-    this.position = "Senior Full-Stack Blockchain Engineer";
-    this.homeland = "Ukraine";
+    this.position = "Software Engineer 👨‍💻";
+    this.homeland = "Ukraine 🇺🇦";
   }
   get code() {
-    return ["Solidity", "Javascript", "Typescript", "Rust", "Golang", "Huff", "Python"];
+    return ["Rust", "Solidity", "Javascript", "Typescript", "Golang", "Huff", "Python"];
   }
   get interests() {
     return ["DeFi", "Blockchain", "LLM", "High-Load"];
