@@ -46,7 +46,7 @@ class AndriiAntonenko implements ISoftwareEngineer {
     return ["Foundry", "Hardhat", "Node.js", "Bun", "React", "Next.js"];
   }
   get hobbies() {
-    return ["Gaming 🎮", "Pro-Wrestling 🤼‍♂️"];
+    return ["Gaming 🎮", "Pets 🐶", "Pro-Wrestling 🤼‍♂️"];
   }
 }
 ```
