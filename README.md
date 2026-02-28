@@ -33,6 +33,7 @@
 class AndriiAntonenko implements ISoftwareEngineer {
   constructor() {
     this.name = "Andrii";
+    this.ens = "deadite.eth";
     this.position = "Software Engineer 👨‍💻";
     this.homeland = "Ukraine 🇺🇦";
   }
